@@ -1,8 +1,0 @@
-[2025-07-17 00:03:48,974] 19 root-INFO-Entered the data ingestion method
-[2025-07-17 00:03:48,984] 22 root-INFO-Read the Dataset as dataframe
-[2025-07-17 00:03:48,985] 25 root-INFO-Train test Split Initiated
-[2025-07-17 00:03:48,985] 29 root-INFO-Train-test-Split Done/Ingestion Done
-[2025-07-17 00:03:49,028] 51 root-INFO-READ Train And Test Data
-[2025-07-17 00:03:49,028] 52 root-INFO-obtaining preproccessor
-[2025-07-17 00:03:49,028] 61 root-INFO-applying preproccessor on training and testing data
-[2025-07-17 00:03:49,062] 74 root-INFO-Data Transformation Done

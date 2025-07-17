@@ -75,3 +75,4 @@ desktop.ini
 .env
 .env.*
 artifacts/
+catboost_info/
